@@ -14,7 +14,7 @@ sudo chmod +x sovemnscript.sh && sudo bash sovemnscript.sh
 After the MN is up and running, you need to configure the desktop wallet accordingly. Here are the steps for Windows Wallet
 1. Open the Soverain Core Desktop Wallet.
 2. Go to RECEIVE and create a New Address: **MN1**
-3. Send **4500** **SOVE** to **MN1**.
+3. Send **6000** **SOVE** to **MN1**.
 4. Wait for 15 confirmations.
 5. Go to **Tools -> "Debug console - Console"**
 6. Type the following command: **masternode outputs**
